@@ -1,4 +1,1 @@
-
-Me chamo Samuel Carlos Pereira tenho 23 anos Sou formado em análise e desenvolvimento de Sistemas, Sou desenvolvedor, Atuo Como FullStack Junior, tenho experiencia nas 
-seguintes Modalidades: Front-end, Back-end,  Na modalidade DB (banco de dados) 
-experiencias com (Mongo.DB, PostegreSQL) Trabalhei com containers e orquestração de containers com as seguintes Tecnologias (Docker, Docker-compose), Trabalhei com metodologias ágeis, utilizando (gitHub, jira e confluence) .
+Recém formado e em início de carreira, sou um apaixonado por tecnologia e desenvolvimento, minha recente experiência me fez um grande entusiasta JavaScript, especialmente React, pra mim é fantástico o que essas incríveis tecnologias permitem fazer,  e sei que isso é só o começo, adoro estudar, aprender novas coisas e dividir conhecimento. Tenho grande afinidade com as metodologias ágeis que permitem fazer isso tudo em espírito de time e transformar tudo isso em valor para a empresa e os clientes. Sou movido por desafios e ansioso por novas oportunidades, para assim crescer e poder entregar a cada dia mais produtos de qualidade e excelência técnica.
