@@ -37,9 +37,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=samuelcpr&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samuelcpr&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcpr&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelcpr&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)
+![Sequência de contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=samuelcpr&theme=blueberry&hide_border=true)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcpr&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelcpr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
