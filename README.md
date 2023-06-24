@@ -43,3 +43,32 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelcpr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+# Commits Recentes
+
+Este é um resumo dos meus commits mais recentes nos repositórios do Git.
+
+## Repositório 1
+
+### [Nome do Projeto 1](link_repositorio_1)
+
+- [Commit 1](link_commit_1): Breve descrição do commit 1.
+- [Commit 2](link_commit_2): Breve descrição do commit 2.
+- [Commit 3](link_commit_3): Breve descrição do commit 3.
+
+## Repositório 2
+
+### [Nome do Projeto 2](link_repositorio_2)
+
+- [Commit 1](link_commit_1): Breve descrição do commit 1.
+- [Commit 2](link_commit_2): Breve descrição do commit 2.
+- [Commit 3](link_commit_3): Breve descrição do commit 3.
+
+## Repositório 3
+
+### [Nome do Projeto 3](link_repositorio_3)
+
+- [Commit 1](link_commit_1): Breve descrição do commit 1.
+- [Commit 2](link_commit_2): Breve descrição do commit 2.
+- [Commit 3](link_commit_3): Breve descrição do commit 3.
+
