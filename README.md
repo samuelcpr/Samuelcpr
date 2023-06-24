@@ -46,6 +46,7 @@
 
 # commits
 
-![Snake animation](https://github.com/vitordelfino/vitordelfino/blob/output/github-contribution-grid-snake.svg)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelcpr&show_icons=true&theme=dracula)
+
 
 
