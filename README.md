@@ -1,9 +1,4 @@
 
-# Welcome
-
-![Snake animation](https://github.com/vitordelfino/vitordelfino/blob/output/github-contribution-grid-snake.svg)
-
-[comment]: ![](https://i.imgur.com/TaTyAuY.png)
 
 
 
@@ -48,11 +43,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelcpr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-![](https://komarev.com/ghpvc/?username=samuelcpr&label=Visitors+Count&color=brightgreen)
-
-<!-- [![](https://visitcount.itsvg.in/api?id=vitordelfino&icon=5&color=6)](https://visitcount.itsvg.in) -->
