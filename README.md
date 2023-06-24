@@ -44,9 +44,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelcpr&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-# commits
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelcpr&show_icons=true&theme=dracula)
 
 
 
