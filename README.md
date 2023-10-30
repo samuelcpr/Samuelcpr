@@ -38,7 +38,7 @@
 
 # 📊GitHub Stats :
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelcpr&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelcpr&theme=blueberry&hide_border=true)
+![Sequência de contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=samuelcpr&theme=blueberry&hide_border=true)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcpr&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 Troféus do GitHub
